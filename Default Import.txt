@@ -1,0 +1,14 @@
+Separador = Vírgula
+Separador de Milhar = Nenhum
+Separador Decimal = Vírgula
+
+
+__________________________
+
+Para iniciar a configuração do recurso Explicar coluna, precisamos navegar até a pasta C:\Program Files\Oracle Analytics Desktop. Pode ser que em seu computador esteja da seguinte forma: C:\Arquivos de Programas\Oracle Analytics Desktop.
+Feito isso, precisamos encontrar, dentro da pasta Oracle Analytics Desktop, o arquivo: install_dvml.
+Dando um clique duplo no arquivo install_dvml, uma tela do prompt de comando abre para fazer o download e a instalação do recurso.
+No final da instalação, uma mensagem para reiniciar o computador será exibida. Depois de reiniciado, vamos verificar se o recurso foi instalado. No Oracle Analytics, clique com o botão direito sobre qualquer coluna e a opção Explicar já deve estar disponível.
+
+______________________________
+
