@@ -40,10 +40,14 @@ Vendas por Semana: Gráficos temporais para identificar padrões semanais nas ve
 <br>
 Este Dashboard abrangente oferece uma visão holística do desempenho do Clube do Livro, integrando dados de vendas, satisfação do cliente e análises demográficas. Estou ansioso para discutir como essas análises podem orientar as decisões estratégicas e impulsionar o sucesso contínuo do nosso clube literário fictício.
 
+<br>
+<br>
+<br>
 <p align="center" >
-     <img width="600" heigth="400" src="">
+     <img width="600" heigth="400" src="https://raw.githubusercontent.com/IgorAgui/First-Project-Club-dva/main/img/Clube%20do%20Livro%20Projeto_1.png">
 </p>
+<br>
 
 <p align="center" >
-     <img width="600" heigth="400" src="">
+     <img width="600" heigth="400" src="https://raw.githubusercontent.com/IgorAgui/First-Project-Club-dva/main/img/Clube%20do%20Livro%20Projeto_2.png">
 </p>
